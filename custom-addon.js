@@ -1,6 +1,19 @@
 (function(){
   // Configuration initiale: à éditer par l'utilisateur
   window.CUSTOM_LIST = window.CUSTOM_LIST || [
+    { title: "Cmtv",  logo: "https://cdn.brandfetch.io/idaBgpGjjj/w/446/h/223/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
     { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
     { title: "Flux Démo",    logo: "https://via.placeholder.com/64x64?text=HLS", type: "media",   url: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
   ];
