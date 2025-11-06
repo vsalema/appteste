@@ -2,11 +2,11 @@
   // Configuration initiale: à éditer par l'utilisateur
   window.CUSTOM_LIST = window.CUSTOM_LIST || [
     { title: "Cmtv",  logo: "https://cdn.brandfetch.io/idaBgpGjjj/w/446/h/223/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
-    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
-    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
-    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
-    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
-    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://www.freeshot.live/upload/source/Sport_tv_3_logo.png", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://www.freeshot.live/upload/source/Sport_tv_4_logo.png", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
+    { title: "Mon Portail",  logo: "https://www.freeshot.live/upload/source/Sport_tv_5_logo.png", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
     { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
     { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
     { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "//popcdn.day/player.php?stream=CMTVPT" },
