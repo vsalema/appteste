@@ -11,11 +11,11 @@
     { title: "SICN",  logo: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/29ad2013589855.562759e048ecd.png", type: "overlay", url: "https://vsalema.github.io/SICN/" },
     { title: "CNN",  logo: "https://e1.pngegg.com/pngimages/206/434/png-clipart-logo-cnn-actualites-logo-de-nbc-medias-texte-rouge-ligne.png", type: "overlay", url: "https://vsalema.github.io/CNN/" },
     { title: "BTV",  logo: "https://upload.wikimedia.org/wikipedia/commons/d/d8/BTV_Black.svg", type: "overlay", url: "//popcdn.day/go.php?stream=BTV1" },
-    { title: "DAZN 1 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN1" },
-    { title: "DAZN 2 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN2" },
-    { title: "DAZN 3 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN3" },
-    { title: "DAZN 4 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN4" },
-    { title: "DAZN 5 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN5" },
+    { title: "DAZN 1 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_logo.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN1" },
+    { title: "DAZN 2 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_logo.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN2" },
+    { title: "DAZN 3 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_logo.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN3" },
+    { title: "DAZN 4 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_logo.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN4" },
+    { title: "DAZN 5 PT",  logo: "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_logo.svg", type: "overlay", url: "//popcdn.day/go.php?stream=ELEVEN5" },
     { title: "Flux Démo",    logo: "https://via.placeholder.com/64x64?text=HLS", type: "media",   url: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
   ];
 
