@@ -579,10 +579,10 @@ details[open] .summary .caret{transform:rotate(90deg)}
   background: #1a2550;
 }
 .custom-item{
-  display:grid; grid-template-columns: 28px 1fr auto; gap:8px; align-items:center;
+  display:grid; grid-template-columns: 28px 1fr auto; gap:47px; align-items:center;
   padding:8px; background:#0f1736; border:1px solid #0f1c4b; border-radius:10px; cursor:pointer;
 }
 .custom-item:hover{ border-color:#2745aa; background:#0f193f; }
-.custom-item .logo{ width:28px; height:28px; border-radius:6px; object-fit:contain; background:#0b132b; }
+.custom-item .logo{ width:61px; height:39px; border-radius:6px; object-fit:fill; background:#0b132b; }
 .custom-item .name{ font-size:13px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 .custom-item .badge{ font-size:11px; opacity:.7; }
