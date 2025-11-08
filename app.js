@@ -486,7 +486,7 @@ samples.forEach(s => {
 const overlayLinks = [
   { label: 'Cmtv',   url: '//popcdn.day/cdn.php?stream=CMTVPT' },
   { label: 'TVPT4',  url: 'https://vsalema.github.io/tvpt4/' },
-  { label: 'Music',url: 'https://vsalema.github.io/cmtv-bundle2/?src=https%3A%2F%2Fclouding.wideiptv.top%2FCMTVPT%2Findex.fmp4.m3u8%3Ftoken%3Dbd0214bfcc269c540fe1f76a032cac9bed9588aa-a9b5ea9cc80314f8314b2b15fd6ce214-1762546453-1762535653' },
+  { label: 'Music',url: 'https://vsalema.github.io/newplayer-prox-final-fixed/' },
   { label: 'Disney-pixar',   url: 'https://vsalema.github.io/Disney-pixar/' }
 ];
 (function addOverlayButtons(){
