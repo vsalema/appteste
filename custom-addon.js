@@ -105,3 +105,36 @@
     setOpen(!open);
   });
 })();
+
+// --- Force ouverture de channelList quand on clique un exemple du menu ---
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest("#examples button, #examples .item, #examples .example-btn");
+  if (!btn) return;
+
+  // Cacher customList si elle est affichée
+  const customList = document.getElementById("customList");
+  const customGroup = document.getElementById("customGroup");
+  if (customList) {
+    customList.style.display = "none";
+  }
+  if (customGroup) {
+    customGroup.style.display = "none";
+  }
+
+  // Afficher channelList
+  const channelList = document.getElementById("channelList");
+  const totalGroup = document.querySelector(".group"); // le groupe principal
+  if (channelList) {
+    channelList.style.display = "flex";
+  }
+  if (totalGroup) {
+    totalGroup.style.display = "flex";
+  }
+
+  // Optionnel : refermer le details pour une UX plus nette
+  const details = document.getElementById("examplesDetails");
+  if (details && details.open) {
+    details.open = false;
+  }
+});
+
